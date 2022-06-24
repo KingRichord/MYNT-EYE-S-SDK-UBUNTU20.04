@@ -1,5 +1,5 @@
 # ubuntu20.04安装指南：
-1. 需要更改文件中opencv的路径，默认是OpenCV4版本。
+1. 需要更改文件中opencv的路径，支持的是OpenCV4版本。
 2. 更改bashrc中.export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:your_library_path为自己的opencv路径
 # MYNT® EYE S SDK
 
