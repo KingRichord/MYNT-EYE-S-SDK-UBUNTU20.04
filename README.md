@@ -1,5 +1,5 @@
 # ubuntu20.04安装指南：
-需要更改文件中opencv的路径，默认是OpenCV4版本。待测试
+需要更改文件中opencv的路径，默认是OpenCV4版本。
 # MYNT® EYE S SDK
 
 [![](https://img.shields.io/badge/MYNT%20EYE%20S%20SDK-2.5.0-brightgreen.svg?style=flat)](https://github.com/slightech/MYNT-EYE-S-SDK)
