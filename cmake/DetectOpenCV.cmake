@@ -14,7 +14,7 @@
 
 include(${CMAKE_CURRENT_LIST_DIR}/IncludeGuard.cmake)
 cmake_include_guard()
-SET(OpenCV_DIR "/home/moi/APP/include/opencv34/lib/cmake/opencv4")
+SET(OpenCV_DIR "/home/moi/APP/include/opencv/lib/cmake/opencv4")
 if(OpenCV_FIND_QUIET)
   find_package(OpenCV QUIET)
 else()

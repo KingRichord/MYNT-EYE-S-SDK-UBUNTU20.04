@@ -85,7 +85,8 @@ endif()
 find_package(Boost REQUIRED COMPONENTS filesystem	)
 message("Boost_include_dirs=${Boost_INCLUDE_DIRS}")
 message("Boost_LIBRARIES=${Boost_LIBRARIES}")
-SET(OpenCV_DIR "/home/moi/APP/include/opencv34/lib/cmake/opencv4")
+
+SET(OpenCV_DIR "/home/moi/APP/include/opencv/lib/cmake/opencv4")
 find_package(OpenCV REQUIRED)
 
 if(mynteye_WITH_GLOG)
