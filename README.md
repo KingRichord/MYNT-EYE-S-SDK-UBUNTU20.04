@@ -1,7 +1,8 @@
 # 安装指南：
-1. 需要更改文件中opencv的路径，支持的是OpenCV4版本。
-2. 更改bashrc中.export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:your_library_path为自己的opencv路径
-3. 剩下的按照官方安装即可
+
+1. The path to opencv in the file needs to be changed, the supported version is OpenCV4.
+2. change .export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:your_library_path to your own opencv path in bashrc
+3. The rest is installed according to the official installation
 # MYNT® EYE S SDK
 
 [![](https://img.shields.io/badge/MYNT%20EYE%20S%20SDK-2.5.0-brightgreen.svg?style=flat)](https://github.com/slightech/MYNT-EYE-S-SDK)
